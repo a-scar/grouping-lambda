@@ -22,12 +22,3 @@ def test_client_without_accounts():
         no_accounts = json.load(f)
 
     assert get_groups(no_accounts) == []
-
-
-def test_client_missing_accounts():
-    from main import get_groups
-
-    with open('client_missing_fields.json') as f:
-        missing_fields = json.load(f)
-
-    assert get_groups(missing_fields) == []
