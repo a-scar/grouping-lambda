@@ -1,0 +1,49 @@
+{
+  "client": 819390246,
+  "accounts": [
+    {
+      "accountId": 83437354934,
+      "effectiveEndDate": "9999-12-31",
+      "registeredRoles": [
+        {
+          "clientNum": 819390246,
+          "isPrimaryOwner": true
+        }
+      ]
+    },
+    {
+      "accountId": 34325325,
+      "effectiveEndDate": "9999-12-31",
+      "registeredRoles": [
+        {
+          "clientNum": 819390246,
+          "isPrimaryOwner": false
+        },
+        {
+          "clientNum": 353535535,
+          "isPrimaryOwner": true
+        }
+      ]
+    },
+    {
+      "accountId": 2923840949,
+      "effectiveEndDate": "9999-12-31",
+      "registeredRoles": [
+        {
+          "clientNum": 819390246,
+          "isPrimaryOwner": true
+        }
+      ]
+    },
+    {
+      "accountId": 57587484789,
+      "effectiveEndDate": "9999-12-31",
+      "registeredRoles": [
+        {
+          "clientNum": 343432325,
+          "isPrimaryOwner": true
+        }
+      ]
+    }
+  ]
+}
